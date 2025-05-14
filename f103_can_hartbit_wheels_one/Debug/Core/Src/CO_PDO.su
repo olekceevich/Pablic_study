@@ -1,0 +1,6 @@
+../Core/Src/CO_PDO.c:14:6:CO_PDO_Handle	24	static
+../Core/Src/CO_PDO.c:30:6:CO_PDO_DebugPrint	176	static
+../Core/Src/CO_PDO.c:44:10:CO_PDO_Get	16	static
+../Core/Src/CO_PDO.c:50:9:CO_PDO_IsReceived	16	static
+../Core/Src/CO_PDO.c:55:19:CO_PDO_ConfigForSpeedMode	32	static
+../Core/Src/CO_PDO.c:78:6:CO_PDO_StartupSequence_SpeedMode	112	static

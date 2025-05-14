@@ -1,0 +1,5 @@
+../Core/Src/CO_SDO.c:16:6:CO_SDO_HandleResponse	7
+../Core/Src/CO_SDO.c:32:19:CO_SDO_Read	8
+../Core/Src/CO_SDO.c:72:19:CO_SDO_Write	5
+../Core/Src/CO_SDO.c:98:19:CO_SDO_Init_SpeedMode	3
+../Core/Src/CO_SDO.c:229:19:CO_SDO_Init_PositionMode	2

@@ -1,0 +1,5 @@
+../Core/Src/CO_SYNC.c:17:6:CO_SYNC_ResetStep	1
+../Core/Src/CO_SYNC.c:24:6:CO_SYNC_SetEnabled	1
+../Core/Src/CO_SYNC.c:28:9:CO_SYNC_IsEnabled	1
+../Core/Src/CO_SYNC.c:32:6:CO_SYNC_Send	3
+../Core/Src/CO_SYNC.c:51:6:CO_SYNC_SendRPDOAndSYNC	3

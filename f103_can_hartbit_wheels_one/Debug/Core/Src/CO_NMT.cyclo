@@ -1,0 +1,4 @@
+../Core/Src/CO_NMT.c:13:6:CAN_SendActivationCommand	4
+../Core/Src/CO_NMT.c:44:19:CO_NMT_Send	2
+../Core/Src/CO_NMT.c:66:6:CO_NMT_HandleMessage	9
+../Core/Src/CO_NMT.c:80:6:CO_NMT_ReleaseBrake	2

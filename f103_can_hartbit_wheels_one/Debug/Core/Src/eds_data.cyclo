@@ -1,0 +1,5 @@
+../Core/Src/eds_data.c:46:18:EDS_Find	4
+../Core/Src/eds_data.c:57:10:EDS_GetDefaultValue	2
+../Core/Src/eds_data.c:66:6:EDS_Log	2
+../Core/Src/eds_data.c:103:19:CO_SDO_Write_ByEDS	2
+../Core/Src/eds_data.c:113:19:CO_SDO_Read_ByEDS	2

@@ -1,0 +1,4 @@
+../Core/Src/CO_NMT.c:13:6:CAN_SendActivationCommand	56	static
+../Core/Src/CO_NMT.c:44:19:CO_NMT_Send	120	static
+../Core/Src/CO_NMT.c:66:6:CO_NMT_HandleMessage	96	static
+../Core/Src/CO_NMT.c:80:6:CO_NMT_ReleaseBrake	120	static
